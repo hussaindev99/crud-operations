@@ -1,0 +1,73 @@
+.App {
+    display: flex;
+    justify-content: space-around ;
+    align-items: center;
+  }
+  
+  .iputpe{
+    height: 40px;
+    width: 300px;
+    padding: 5px  10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    border: 1px solid whitesmoke;
+    margin-top: 20px;
+  
+  }
+  .task{
+    margin-top: 20px;
+    background: rgba(39, 121, 39, 0.966);
+    border: none;
+    padding: 7px;
+    border-radius: 5px;
+    color: white;
+  }
+  .tablediv{
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 10px;
+  }
+  .taskedit{
+    background-color: rgba(64, 136, 245, 0.356);
+    padding: 5px 10px;
+    margin-top: 10px;
+  }
+  .editbutton{
+    background: rgba(0, 110, 255, 0.596);
+    border: none;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 5px;
+    margin: 0px;
+  }
+  .deletebutton{
+    background-color: rgba(255, 0, 0, 0.726) ;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    margin: 0px;
+  }
+  .fname{
+    padding: "0px 20px";
+    background-color: whitesmoke;
+    padding: 5px 10px;
+    margin-top: 10px;
+  }
+  .lname{
+  padding: "10px 20px";
+  background-color: whitesmoke;
+  padding: 5px 10px;
+  margin-top: 10px;
+  }
+  .editanddelete{
+    background-color: whitesmoke;
+    margin-top: 10px;
+  }
+  
+  
+  .deletebuttonhover{
+   background-color: rebeccapurple; 
+  }
